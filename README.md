@@ -1,5 +1,5 @@
 # Code for null and potent subspace identification 
-This code was used to identify subspaces in "Separability of cognitive and motor processes in the behaving mouse - Hasnain, Birnbaum et al. 2023"
+This code was used to identify subspaces in ["Separability of cognitive and motor processes in the behaving mouse - Hasnain, Birnbaum et al. 2023"](https://www.biorxiv.org/content/10.1101/2023.08.23.554474v3.full)
 
 Version 1.0  July 19, 2023
 
